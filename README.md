@@ -1,6 +1,4 @@
-<h1 align="center">Hi, everybody! 👋</h1>
-
-### My name is Andrey. 
+<h1 align="center">Hi, everybody! My name is Andrey. 👋</h1>
 
 <h3 align="center">Fullstack developer</h3>
 
