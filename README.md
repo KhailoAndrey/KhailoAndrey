@@ -45,7 +45,7 @@
 <h3 align="left">My Projects:</h3>
 <ul>
 <li>
-<b><a href="https://khailoandrey.github.io/jukrassic-pork/" target="_blank" rel="noreferrer">Jukrassic Pork</a> </b><a href="http://www.pork.com.ua/">Official website</a> </b>[HTML, module.scc, React, custom hooks]
+<b><a href="https://khailoandrey.github.io/jukrassic-pork/" target="_blank" rel="noreferrer">Jukrassic Pork</a> </b><a href="http://www.pork.com.ua/">Official website</a> </b>(Commercial project) </b>[HTML, module.scc, React, custom hooks]
 </li>
 <li>
 <b><a href="https://khailoandrey.github.io/testwork" target="_blank" rel="noreferrer">Tweets</a> </b>[HTML, styled-components, React, reduxjs/toolkit]
@@ -57,6 +57,9 @@
 <b><a href="https://khailoandrey.github.io/goit-react-hw-05-movies/" target="_blank" rel="noreferrer">Movies</a> </b>[HTML, module.css, React]
 </li>
 <li>
+<b><a href="https://khailoandrey.github.io/My_Project/" target="_blank" rel="noreferrer">Schedule</a>(Pet project)</b>[HTML, SCSS, JS]
+</li>
+<li>
 <b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a> (team project) </b>[HTML, CSS, JS] 
 </li>
 <li>
@@ -66,8 +69,5 @@
 <b><a href="https://khailoandrey.github.io/goit-markup-hw-08/" target="_blank" rel="noreferrer">Web Studio</a> </b>[HTML, SCSS, JS]
 </li>
 
-<li>
-<b><a href="https://khailoandrey.github.io/My_Project/" target="_blank" rel="noreferrer">Schedule</a>(Pet project)</b>[HTML, SCSS, JS]
-</li>
 
 </ul>
