@@ -51,7 +51,7 @@
 <b><a href="https://khailoandrey.github.io/testwork" target="_blank" rel="noreferrer">Tweets</a> </b>[HTML, styled-components, React, reduxjs/toolkit]
 </li>
 <li>
-<b><a href="https://github.com/KhailoAndrey/goit-react-hw-08-phonebook" target="_blank" rel="noreferrer">Contacts App</a> </b>[HTML, styled-components, React, reduxjs/toolkit]
+<b><a href="https://github.com/KhailoAndrey/goit-react-hw-08-phonebook" target="_blank" rel="noreferrer">Phonebook</a> </b>[HTML, styled-components, React, reduxjs/toolkit]
 </li>
 <li>
 <b><a href="https://khailoandrey.github.io/goit-react-hw-05-movies/" target="_blank" rel="noreferrer">Movies</a> </b>[HTML, module.css, React]
