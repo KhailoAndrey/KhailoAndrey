@@ -45,7 +45,7 @@
 <h3 align="left">My Projects:</h3>
 <ul>
 <li>
-<b><a href="https://khailoandrey.github.io/jukrassic-pork/" target="_blank" rel="noreferrer">Jukrassic Pork</a> </b>(<a href="http://www.pork.com.ua/">Official website</a> </b>[HTML, module.scc, React, custom hooks]
+<b><a href="https://khailoandrey.github.io/jukrassic-pork/" target="_blank" rel="noreferrer">Jukrassic Pork</a> </b><a href="http://www.pork.com.ua/">Official website</a> </b>[HTML, module.scc, React, custom hooks]
 </li>
 <li>
 <b><a href="https://github.com/KhailoAndrey/goit-react-hw-08-phonebook" target="_blank" rel="noreferrer">Contacts App</a> </b>[HTML, styled-components, React, reduxjs/toolkit]
