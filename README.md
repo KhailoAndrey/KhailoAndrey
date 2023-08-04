@@ -45,6 +45,9 @@
 <h3 align="left">My Projects:</h3>
 <ul>
 <li>
+<b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Your Pet</a> </b>(Final project GoIT) </b>[HTML, styled-components, React, Redux/Toolkit, Node.js, custom hooks]
+</li>
+<li>
 <b><a href="https://khailoandrey.github.io/jukrassic-pork/" target="_blank" rel="noreferrer">Jukrassic Pork</a> </b><a href="http://www.pork.com.ua/">Official website</a> </b>(Commercial project) </b>[HTML, module.scc, React, custom hooks]
 </li>
 <li>
