@@ -65,6 +65,9 @@
 <li>
 <b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a> (team project) </b>[HTML, CSS, JS] 
 </li>
+  <li>
+<b><a href="https://khailoandrey.github.io/goit-js-hw-11/" target="_blank" rel="noreferrer">Photos</a> </b>[HTML, CSS, JS] 
+</li>
 <li>
 <b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a> (team project) </b>[HTML, SCSS, JS] 
 </li>
