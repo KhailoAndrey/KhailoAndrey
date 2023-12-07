@@ -45,6 +45,9 @@
 <h3 align="left">My Projects:</h3>
 <ul>
 <li>
+<b><a href="https://khailoandrey.github.io/SoftRyzen-testwork/" target="_blank" rel="noreferrer">Ecosolution</a> </b>(Test work for SoftRyzen Internship) </b>[HTML, CSS/styled-components, React, custom hooks]
+</li>   
+<li>
 <b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Your Pet</a> </b>(Final project GoIT) </b>[HTML, CSS/styled-components, JS, i18next, React, Redux/Toolkit, Node.js, custom hooks]
 </li>
 <li>
